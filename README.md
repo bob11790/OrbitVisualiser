@@ -1,4 +1,4 @@
-# My VSCode Project
+# Orbit Visualiser
 
 **Working prototype — many small bugs ⚠️**
 
