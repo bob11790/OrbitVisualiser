@@ -15,3 +15,7 @@ __pycache__/
 # System files
 .DS_Store
 Thumbs.db
+
+
+vpython_env/
+.ipynb_checkpoints/
