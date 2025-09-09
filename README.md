@@ -21,9 +21,11 @@ All displayed flight paths will be accurate but may not allign correctly with th
 
 ```bash
 python -m venv venv
-# Windows activation
-venv\Scripts\activate
-# macOS/Linux activation
+# Windows (Command Prompt)
+venv\Scripts\activate.bat
+# Windows (PowerShell)
+vpython_env\Scripts\Activate.ps1
+# macOS/Linux
 source venv/bin/activate
 ```
 2. **Install Dependencies**
